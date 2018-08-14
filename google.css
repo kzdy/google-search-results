@@ -1,0 +1,14 @@
+header {
+  height: 120px;
+  background-color: #F2F4F4;
+  border-bottom: 1px solid #E5E8E8;
+}
+
+.google {
+  position: absolute;
+  height: 55px;
+  width: 135px;
+  padding: 10px;
+  top: 5px;
+  left: 10px;
+}
