@@ -6,9 +6,21 @@ header {
 
 .google {
   position: absolute;
-  height: 55px;
-  width: 135px;
+  height: 50px;
+  width: 140px;
   padding: 10px;
-  top: 5px;
-  left: 10px;
+  top: 7px;
+  left: 5px;
+}
+
+form {
+  position: absolute;
+  padding:10px;
+  top:7px;
+  left: 160px;
+}
+
+input {
+  width: 1000px;
+  height: 45px;
 }
