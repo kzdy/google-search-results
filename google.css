@@ -1,7 +1,7 @@
 header {
   height: 120px;
   background-color: #F2F4F4;
-  border-bottom: 1px solid #E5E8E8;
+  border-bottom: 1px solid #AEB6BF;
 }
 
 .google {
@@ -23,4 +23,45 @@ form {
 input {
   width: 1000px;
   height: 45px;
+}
+
+.mic {
+  position: absolute;
+  color: #5DADE2;
+  font-size: 31px !important;
+  top: 18px;
+  right: 75px;
+}
+
+.search {
+  position: absolute;
+  color: #5DADE2;
+  font-size: 31px !important;
+  top: 18px;
+  right: 25px;
+}
+
+.apps {
+  position: absolute;
+  color: #566573;
+  font-size: 30px !important;
+  top: 28px;
+  right: 125px;
+}
+
+.notification {
+  position: absolute;
+  color: #566573;
+  font-size: 25px !important;
+
+  top: 30px;
+  right: 75px;
+}
+
+.account {
+  position: absolute;
+  font-size: 35px !important;
+  top: 25px;
+  right: 20px;
+  color: #E74C3C;
 }
